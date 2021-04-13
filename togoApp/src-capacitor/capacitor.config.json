@@ -1,0 +1,7 @@
+{
+  "appId": "com.kaizen.togo",
+  "appName": "ToGo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

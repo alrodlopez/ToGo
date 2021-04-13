@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ToGo</string>
+    <string name="title_activity_main">ToGo</string>
+    <string name="package_name">com.kaizen.togo</string>
+    <string name="custom_url_scheme">com.kaizen.togo</string>
+</resources>

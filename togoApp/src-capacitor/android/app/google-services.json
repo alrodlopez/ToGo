@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "599077770420",
+    "firebase_url": "https://togo-9b625.firebaseio.com",
+    "project_id": "togo-9b625",
+    "storage_bucket": "togo-9b625.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599077770420:android:dc983d76c036388028b3e1",
+        "android_client_info": {
+          "package_name": "com.kaizen.togo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599077770420-ibco1h5np3k1e7lr66ftue5lgr0djj44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kaizen.togo",
+            "certificate_hash": "67cb12524d232e27779ee216ce4758067a51dcdf"
+          }
+        },
+        {
+          "client_id": "599077770420-e6hv86i8ieg4q24kf67f5mp91k4raurv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW_EzaAudxM9drgbHzi23h0AYvXgkp-rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599077770420-e6hv86i8ieg4q24kf67f5mp91k4raurv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
